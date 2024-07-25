@@ -1,7 +1,4 @@
 hello world
-<<<<<<< HEAD
 lorem ipsum dolor
 si amet
 test
-=======
->>>>>>> parent of 02b6645 (add lorem ipsum)
